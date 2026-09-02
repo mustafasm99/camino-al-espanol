@@ -49,7 +49,7 @@ export default function Home() {
 
         <h2 className="hero-title mt-4 max-w-[15ch] font-display text-[34px] font-bold leading-[1.05] opacity-0 sm:text-[52px]">
           Aprende <span className="text-rojo">{typed}</span>
-          <span className="border-r-[3px] border-rojo pr-1 animate-blink"> </span> paso a paso
+          <span className="border-r-[3px] border-rojo pr-1 animate-blink"> </span> paso a paso con Mustafa
         </h2>
 
         <p className="hero-lede mt-4 max-w-[54ch] text-[16.5px] leading-relaxed text-ink-soft opacity-0">
